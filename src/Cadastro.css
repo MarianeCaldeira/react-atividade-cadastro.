@@ -1,0 +1,64 @@
+div
+{
+    display: flex;
+}
+
+.direita
+{
+    background-color: rgb(107, 90, 156);
+    width: 680px;
+    height: 650px;
+}
+
+.cadastro
+{
+    margin-top: 150px;
+    margin-left: -300px;
+    font-size: 30px;
+}
+
+p
+{
+    margin-top: -25px;
+    margin-left: -130px;
+    font-style: oblique;
+}
+
+.esquerda
+{
+    background-color: rgb(231, 229, 229);
+    width: 680px;
+    height: 650px;
+}
+
+img
+{
+    margin-top: 150px;
+}
+
+.app
+{
+    color: white;
+    font-size: 80px;
+    margin-top: -5px;
+}
+
+input
+{
+    padding: 3%;
+    width: 400px;
+    background-color: white;
+    border: none;
+    font-weight: bolder;
+    margin-top: 5px;
+}
+
+button
+{
+    background-color: rgb(207, 205, 205);
+    color: grey;
+    width: 440px;
+    padding: 4%;
+    border: none;
+    font-weight: bolder;
+}
